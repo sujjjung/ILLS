@@ -12,8 +12,15 @@ C#, MySQL
 <br/>
 
 ## 🖊️ 기획 및 설계
+* 페이지 기획서
+  
+![image](https://github.com/user-attachments/assets/30015363-7e03-45fd-ba62-9e81c9fc67fb)
+
+
 * 페이지 기획서 
-![ILLS](https://github.com/user-attachments/assets/71a5337f-9e85-47ab-8f65-b220d99ce46d)
+![제목 없음-1](https://github.com/user-attachments/assets/054fb21c-787f-4210-9e63-a944a37b4f3e)
+
 
 * DB 명세서
+  
 ![image](https://github.com/user-attachments/assets/9e86052c-f06e-47b2-a29d-7e736cc75056)
